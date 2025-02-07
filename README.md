@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript pitfall: type coercion during arithmetic operations. The `foo` function intends to add two numbers, but due to JavaScript's loose typing, it concatenates the number and string instead.  The solution shows how to explicitly enforce type checking to prevent this behavior.
